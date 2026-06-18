@@ -3,7 +3,7 @@
 
 SAPフリーランス × AI駆動のLP制作。ビジネスの成果につながるサイトをスピーディに届けます。
 
-🔗 **公開URL：** https://your-username.github.io/your-repo-name/
+🔗 **公開URL：** https://yuzukabosu-dev.github.io/polaris-lab-site/
 
 > ⚠️ 上記URLは仮のものです。GitHub Pagesで公開後、実際のURLに書き換えてください（書き換え方は本ファイル末尾を参照）。
 
